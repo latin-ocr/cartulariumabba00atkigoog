@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cartulariumabba00atkigoog_0010.png"; bbox 0 0 3075 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 809 588 2057 726">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 809 588 2057 726">
+     <span class='ocr_line' id='line_1_1' title="bbox 809 588 2057 726; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 809 588 2057 726; x_wconf 82' lang='lat' dir='ltr'><strong>OARTULARIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 315 1192 2533 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 315 1192 2533 1332">
+     <span class='ocr_line' id='line_1_2' title="bbox 315 1192 2533 1332; baseline 0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 315 1192 1262 1330; x_wconf 86' lang='lat' dir='ltr'><strong>ABBATHIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1360 1193 1582 1330; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1683 1195 2533 1332; x_wconf 86' lang='lat' dir='ltr'><strong>RIEVALLE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 787 1774 2077 1854">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 787 1774 2077 1854">
+     <span class='ocr_line' id='line_1_3' title="bbox 787 1774 2077 1854; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 787 1774 1230 1851; x_wconf 85' lang='lat' dir='ltr'><strong>ORDINIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1284 1774 2077 1854; x_wconf 85' lang='lat' dir='ltr'>CISTERCIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 655 2275 2189 2354">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 655 2275 2189 2354">
+     <span class='ocr_line' id='line_1_4' title="bbox 655 2275 2189 2354; baseline 0.002 -4"><span class='ocrx_word' id='word_1_7' title='bbox 655 2275 1214 2354; x_wconf 88' lang='lat' dir='ltr'><strong>FUNDATAE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1287 2278 1596 2354; x_wconf 90' lang='lat' dir='ltr'><strong>ANNO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1674 2277 2189 2353; x_wconf 83' lang='lat' dir='ltr'>MOXXXII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1005 3867 1828 3937">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1005 3867 1828 3937">
+     <span class='ocr_line' id='line_1_5' title="bbox 1005 3867 1828 3937; baseline 0 -15"><span class='ocrx_word' id='word_1_10' title='bbox 1005 3867 1308 3932; x_wconf 59' lang='lat' dir='ltr'><strong>finialium</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1342 3869 1434 3922; x_wconf 72' lang='lat' dir='ltr'><strong>fot</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1469 3869 1557 3924; x_wconf 72' lang='lat' dir='ltr'><strong>tiu</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1589 3869 1828 3937; x_wconf 63' lang='lat' dir='ltr'><strong>§weitin</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 289 4009 2550 4422">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 289 4009 2550 4422">
+     <span class='ocr_line' id='line_1_6' title="bbox 850 4009 1993 4074; baseline -0.001 -12"><span class='ocrx_word' id='word_1_14' title='bbox 850 4009 950 4062; x_wconf 87' lang='lat' dir='ltr'><strong>BY</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 984 4009 1356 4062; x_wconf 76' lang='lat' dir='ltr'>ANDREWS</span> <span class='ocrx_word' id='word_1_16' title='bbox 1388 4011 1433 4062; x_wconf 68' lang='grc' dir='ltr'><strong>ὣ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1464 4011 1595 4074; x_wconf 68' lang='lat' dir='ltr'><strong>CO„</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1633 4009 1993 4070; x_wconf 83' lang='lat' dir='ltr'>DURHAM3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 431 4122 2423 4188; baseline 0 -12"><span class='ocrx_word' id='word_1_19' title='bbox 431 4122 758 4180; x_wconf 79' lang='lat' dir='ltr'>LONDON:</span> <span class='ocrx_word' id='word_1_20' title='bbox 795 4125 1256 4179; x_wconf 80' lang='lat' dir='ltr'><strong>WHITTAKER</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1286 4127 1334 4178; x_wconf 64' lang='grc' dir='ltr'><strong><em>ὣ</em></strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1367 4126 1498 4188; x_wconf 70' lang='lat' dir='ltr'><strong>CO„</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1533 4129 1569 4177; x_wconf 88' lang='lat'><strong>2</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 1602 4126 1855 4178; x_wconf 78' lang='lat' dir='ltr'>WHITE</span> <span class='ocrx_word' id='word_1_25' title='bbox 1888 4125 2094 4177; x_wconf 82' lang='lat' dir='ltr'><strong>HART</strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 2128 4124 2423 4186; x_wconf 76' lang='lat' dir='ltr'><strong>STREET,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 289 4235 2550 4306; baseline 0.003 -20"><span class='ocrx_word' id='word_1_27' title='bbox 289 4235 802 4294; x_wconf 76' lang='lat' dir='ltr'><strong>PATERNOSTER</strong></span> <span class='ocrx_word' id='word_1_28' title='bbox 833 4242 1160 4306; x_wconf 75' lang='lat' dir='ltr'><strong>SQUARE3</strong></span> <span class='ocrx_word' id='word_1_29' title='bbox 1197 4242 1554 4296; x_wconf 83' lang='lat' dir='ltr'><strong>BERNARD</strong></span> <span class='ocrx_word' id='word_1_30' title='bbox 1574 4241 1976 4306; x_wconf 75' lang='lat' dir='ltr'><strong>QUARITGH,</strong></span> <span class='ocrx_word' id='word_1_31' title='bbox 2007 4245 2069 4294; x_wconf 87' lang='lat'><strong>15</strong></span> <span class='ocrx_word' id='word_1_32' title='bbox 2091 4240 2550 4296; x_wconf 85' lang='lat' dir='ltr'>PIGCADILLY.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 603 4355 2247 4422; baseline 0.001 -14"><span class='ocrx_word' id='word_1_33' title='bbox 603 4355 940 4410; x_wconf 78' lang='lat' dir='ltr'>WILLIAM</span> <span class='ocrx_word' id='word_1_34' title='bbox 975 4357 1440 4413; x_wconf 81' lang='lat' dir='ltr'>BLAOKWOOD</span> <span class='ocrx_word' id='word_1_35' title='bbox 1473 4359 1518 4411; x_wconf 70' lang='grc' dir='ltr'><strong><em>ἁ</em></strong></span> <span class='ocrx_word' id='word_1_36' title='bbox 1552 4357 1751 4422; x_wconf 83' lang='lat' dir='ltr'>SONS,</span> <span class='ocrx_word' id='word_1_37' title='bbox 1788 4357 2247 4412; x_wconf 75' lang='lat' dir='ltr'><strong>EDINBURGH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1294 4479 1526 4541">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 1294 4479 1526 4541">
+     <span class='ocr_line' id='line_1_10' title="bbox 1294 4479 1526 4541; baseline 0.013 -3"><span class='ocrx_word' id='word_1_38' title='bbox 1294 4479 1526 4541; x_wconf 82' lang='lat'><strong>1889.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
